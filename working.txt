@@ -1,0 +1,9 @@
+I have added an authentication system to show working of jwt.
+1.) /signup is the first api to be used to register yourself.
+2.) use /login endpoint after that for login purpose.
+after that all the other routes are accessible.
+
+/getAllUsers is the endpoint for viewing all the records(users) in the address book/database.
+
+Open the project in an editor, use (npm install) and then use (npm run dev) commands in the terminal.
+Use Postman to check the working of all the api endpoints.
